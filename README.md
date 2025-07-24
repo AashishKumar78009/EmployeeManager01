@@ -1,6 +1,4 @@
-# EmployeeManager01
-This fullstack osm project is a combination of Nextjs, Reactjs, Javascript,  FastAPI, Python and MongoDB. This project is currrently a CRUD inplementation with clean &amp; basic UI.
-t
+
 # Employee Registration Web Application
 
 A full-stack employee registration application built with **Next.js** frontend and **FastAPI** backend, persisting data into MongoDB. This project demonstrates clean, simple code using React hooks for state management and environment variables for configuration.
